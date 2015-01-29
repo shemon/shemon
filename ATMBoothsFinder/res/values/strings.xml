@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ATM Booths Finder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="atmname">Name of ATM Booth</string>
+    <string name="address">Address</string>
+    <string name="bankname">Bank</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="deposit">Is deposit availabe? </string>
+    <string name="contact_name">Name of Contact Person</string>
+    <string name="contact_no">Phone no of Contact Person</string>
+    <string name="save">save</string>
+    
+    <string name="addNew">Add New</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+</resources>
